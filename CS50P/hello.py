@@ -1,0 +1,5 @@
+name = input("what is your name??")
+age = input("what is your age??")
+print(f"Hello {name}!!")
+print (f"{name} are {age} old.")
+print(f" In 10  years you will be {int(age) + 10} years old.")
