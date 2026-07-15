@@ -1,4 +1,4 @@
-# Program 3: Grade Checker
+# Program : Grade Checker
 print("Grade Checker")
 print("─────────────")
 
