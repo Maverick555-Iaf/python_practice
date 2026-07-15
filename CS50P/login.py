@@ -12,7 +12,7 @@ while attempts > 0:
     password = input("Password: ")
 
     if username == CORRECT_USERNAME and password == CORRECT_PASSWORD:
-        print("\n Login successful! Welcome admin.")
+        print("\n Login successful! Welcome Mr.ubhodip.")
         break
     else:
         attempts -= 1
