@@ -7,7 +7,7 @@ score = int(input("Enter your score (0-100): "))
 if score < 0 or score > 100:
     print("Invalid score. Enter between 0 and 100.")
 elif score >= 90:
-    print(f"Score: {score} → Grade: A (Excellent!)")
+   print(f"Score: {score} → Grade: A (Excellent!)")
 elif score >= 80:
     print(f"Score: {score} → Grade: B (Good!)")
 elif score >= 70:
